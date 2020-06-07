@@ -2,3 +2,6 @@
 * Chocolate
 * Strawberry
 * Pecan
+* Caramel
+* Dark Chocolate
+
